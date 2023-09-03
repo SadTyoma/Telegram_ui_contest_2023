@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE3C95CF-5682-4068-A755-7D086DAA47FC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E93A2F4-4068-4392-911D-DD17CB974EF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "telegram_ui_contest_2023/CustomArrow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "draw(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "223C1522-314E-4E6F-9800-A8F36EDAB1C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "telegram_ui_contest_2023/ArchiveCreationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "setupView(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D58493DE-B5FF-4349-BFB1-7E3DC5F61728"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "telegram_ui_contest_2023/LastAnimationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "setupView(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D58493DE-B5FF-4349-BFB1-7E3DC5F61728 - 73582b2980a3c8fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "telegram_ui_contest_2023.LastAnimationView.setupView(CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "telegram_ui_contest_2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/telegram%20ios%20contest%202023/telegram_ui_contest_2023/telegram_ui_contest_2023/LastAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "2444">
+               </Location>
+               <Location
+                  uuid = "D58493DE-B5FF-4349-BFB1-7E3DC5F61728 - 73582b2980a3c8fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "telegram_ui_contest_2023.LastAnimationView.setupView(CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "telegram_ui_contest_2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/telegram%20ios%20contest%202023/telegram_ui_contest_2023/telegram_ui_contest_2023/LastAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "3072">
+               </Location>
+               <Location
+                  uuid = "D58493DE-B5FF-4349-BFB1-7E3DC5F61728 - 73582b2980a3f724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "telegram_ui_contest_2023.LastAnimationView.setupView(CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "telegram_ui_contest_2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/telegram%20ios%20contest%202023/telegram_ui_contest_2023/telegram_ui_contest_2023/LastAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "2660">
+               </Location>
+               <Location
+                  uuid = "D58493DE-B5FF-4349-BFB1-7E3DC5F61728 - 73582b2980a3f724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "telegram_ui_contest_2023.LastAnimationView.setupView(CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "telegram_ui_contest_2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/telegram%20ios%20contest%202023/telegram_ui_contest_2023/telegram_ui_contest_2023/LastAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "2940">
+               </Location>
+               <Location
+                  uuid = "D58493DE-B5FF-4349-BFB1-7E3DC5F61728 - 73582b2980a3c8fb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "telegram_ui_contest_2023.LastAnimationView.setupView(CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "telegram_ui_contest_2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/telegram%20ios%20contest%202023/telegram_ui_contest_2023/telegram_ui_contest_2023/LastAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "2448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
